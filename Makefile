@@ -2,10 +2,10 @@ lint:
 	go fmt ./...
 
 test:
-	go test -v ./...
+	go test -v
 
 build:
-	go build -v .
+	go build
 
 run:
-	go run main.go
+	./class-cicd.exe
