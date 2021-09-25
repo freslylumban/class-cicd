@@ -1,3 +1,6 @@
+install:
+	go mod tidy
+
 lint:
 	go fmt ./...
 
