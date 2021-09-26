@@ -19,3 +19,9 @@ Twist:
 
 Docker token:
 4825ceea-5431-4ecf-b604-b4feb95c353c
+
+
+Copy to project:
+build, lint, test
+
+github workflow, Dockerfile, manifests, .env.example, makefile
